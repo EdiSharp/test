@@ -15,4 +15,7 @@ else
 accessAllowed = storedPassword == enteredPassword ? true : false;
 
 Console.WriteLine(accessAllowed);
-Console.ReadLine();
+Console.ReadLine(); 
+
+int x = 5; // just a comment to test git changes
+
